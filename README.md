@@ -1,111 +1,119 @@
- <!-- HEADER -->
+ <!-- NEON GALAXY HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090019,35:3B0764,70:7C3AED,100:06B6D4&height=220&section=header&text=CHETANA%20TISAGE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DREAM.%20LEARN.%20BUILD.&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090019,25:241052,55:6D28D9,80:0891B2,100:090019&text=CHETANA%20TISAGE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20ONE%20LINE%20AT%20A%20TIME&descSize=13&descAlignY=58&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Diploma+IT+Student+%F0%9F%92%BB;Aspiring+Developer+%26+Data+Analyst+%F0%9F%93%8A;Turning+Ideas+Into+Reality+%E2%9C%A8;Always+Learning.+Always+Building." alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Chetana+%F0%9F%91%8B;Diploma+IT+Student+%F0%9F%92%BB;Aspiring+Software+Developer+%E2%9C%A8;Exploring+Data+Analytics+%26+AI+%F0%9F%A4%96;Dream.+Learn.+Build.+Repeat." alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=chetanatisage26-afk&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
+<a href="https://github.com/chetanatisage26-afk">
+<img src="https://komarev.com/ghpvc/?username=chetanatisage26-afk&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS" />
+</a>
+
+<a href="https://github.com/chetanatisage26-afk?tab=followers">
+<img src="https://img.shields.io/github/followers/chetanatisage26-afk?style=for-the-badge&color=0891B2&label=FOLLOWERS" />
+</a>
 
 </div>
 
 ---
 
-## 🌌 About Me
-
-```python
-class Chetana:
-    def __init__(self):
-        self.name = "Chetana Tisage"
-        self.education = "Diploma in Information Technology"
-        self.interests = [
-            "Software Development",
-            "Data Analytics",
-            "Artificial Intelligence",
-            "UI/UX Design"
-        ]
-        self.current_focus = [
-            "Python",
-            "Data Analytics",
-            "Building Projects"
-        ]
-        self.motto = "Dream. Learn. Build."
-
-    def say_hello(self):
-        print("Thanks for visiting my profile! ✨")
-
-
-me = Chetana()
-me.say_hello()
-```
-
-- 🎓 IT student passionate about technology and innovation.
-- 💻 Exploring software development and data analytics.
-- 📊 Learning how to turn raw data into meaningful insights.
-- 🤖 Interested in AI and creative problem-solving.
-- 🌱 Improving my skills through hands-on projects.
-- 🎯 Goal: Become a skilled developer and build technology that makes a difference.
-
----
-
-## ⚡ Tech Stack & Skills
-
-### 💻 Programming & Web Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react" />
-</p>
-
-### 📊 Data Analytics & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pandas,sklearn,matplotlib,mysql,git,github,vscode" />
-</p>
-
-### 🚀 Technologies I'm Exploring
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=streamlit,firebase,figma,bootstrap" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-### 📊 RetailIQ — Retail Sales Analytics
-
-**Python | Pandas | NumPy | Plotly | Streamlit**
-
-An interactive retail analytics dashboard that explores sales performance, customer segments, product performance and profitability.
-
-- Data cleaning and preprocessing.
-- Exploratory Data Analysis (EDA).
-- Interactive business dashboard.
-- Sales and profit visualization.
-
-🔗 **[View Project on GitHub](https://github.com/chetanatisage26-afk/Retail-Sales-Analysis)**
-
-### 🌾 AgroBridge AI — Smart Agriculture Platform
-
-**HTML | CSS | JavaScript | PHP | MySQL**
-
-An agriculture-focused project concept connecting farmers and buyers through a digital marketplace, with AI-powered assistance.
-
-🔗 [Explore my GitHub repositories](https://github.com/chetanatisage26-afk?tab=repositories)
-
----
-
-## 📈 GitHub Analytics
+<h2 align="center">🌌 &nbsp; ENTER MY DIGITAL UNIVERSE &nbsp; 🌌</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chetanatisage26-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" />
+*Curiosity drives me. Code inspires me. Creativity defines me.*
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanatisage26-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF" />
+</div>
+
+## ✦ 01 / About Me
+
+Hey there! I'm **Chetana Tisage**, an Information Technology diploma student who loves exploring technology and turning ideas into practical projects.
+
+- 🎓 Pursuing a Diploma in Information Technology.
+- 💻 Interested in Software Development and Web Technologies.
+- 📊 Exploring Data Analytics and Data Visualization.
+- 🤖 Learning about Artificial Intelligence and AI-powered tools.
+- 🎨 Interested in UI/UX Design and creative digital experiences.
+- 🌱 Learning through hands-on projects and continuous practice.
+
+**My philosophy:** Don't just learn technology. Build something meaningful with it.
+
+---
+
+## ⚡ 02 / My Tech Arsenal
+
+<div align="center">
+
+### Programming & Web Development
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react&theme=dark" />
+
+### Data Analytics
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,firebase&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 03 / Featured Projects
+
+### 📊 RetailIQ — Retail Sales Analytics
+
+<a href="https://github.com/chetanatisage26-afk/Retail-Sales-Analysis">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**An interactive retail sales analytics dashboard built using Python.**
+
+- Cleaned and analyzed retail sales data.
+- Performed Exploratory Data Analysis (EDA).
+- Explored category-wise and region-wise performance.
+- Created interactive visualizations.
+- Built a dashboard using Streamlit and Plotly.
+
+**Tech:** Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Streamlit
+
+---
+
+### 🌾 AgroBridge AI — Smart Agriculture Platform
+
+An agriculture-focused project designed to connect farmers and buyers through a digital marketplace, with AI-powered assistance.
+
+**Tech:** HTML · CSS · JavaScript · PHP · MySQL
+
+---
+
+### ⚖️ AdvoAI — Legal Technology Application
+
+An ongoing legal-tech application concept focused on helping organize legal workflows through digital tools and AI-assisted features.
+
+**Tech:** React Native · Expo · Firebase
+
+---
+
+## 📈 04 / GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chetanatisage26-afk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetanatisage26-afk&layout=compact&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF" />
+
+<br/><br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=chetanatisage26-afk&theme=tokyonight&hide_border=true&background=0D1117&ring=BB86FC&fire=00E5FF&currStreakLabel=00E5FF" />
 
@@ -113,16 +121,20 @@ An agriculture-focused project concept connecting farmers and buyers through a d
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 05 / Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/chetana-tisage-91a081376/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/chetanatisage26-afk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/chetanatisage26-afk">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/chetana-tisage-91a081376/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/chetanatisage26-afk?tab=repositories">
+<img src="https://img.shields.io/badge/My_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -131,10 +143,12 @@ An agriculture-focused project concept connecting farmers and buyers through a d
 
 <div align="center">
 
-### ✨ "Code your dreams. Build your future."
+## 💜 A LITTLE REMINDER
 
-**Thanks for visiting my little corner of the coding universe! 💜**
+### "Great things are built one commit at a time."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:7C3AED,100:090019&height=110&section=footer" width="100%" />
+**DREAM. LEARN. BUILD. REPEAT.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090019,35:3B0764,70:7C3AED,100:0891B2&height=130&section=footer&animation=fadeIn" />
 
 </div>
